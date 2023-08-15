@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Use SQLAlchemy to join tables with one-to-one, one-to-many, and
-  many-to-many relationships.
+  many-to-many relationships...
 
 ***
 
